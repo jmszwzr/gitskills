@@ -1,1 +1,1 @@
-Createing a new branch is quick.
+Changes words in readme.txt
